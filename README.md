@@ -89,12 +89,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=192210479&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com?user=192210479&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=192210479&show_icons=true&theme=tokyonight&hide_rank=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=192210479&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=192210479&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=192210479&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -102,7 +105,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=192210479&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=192210479&theme=onedark&row=1&column=6" />
 </p>
 
 ---
