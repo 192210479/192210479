@@ -3,12 +3,12 @@
 ### Oracle Certified Java SE 17 Developer | Java • DSA • SQL | Data Analytics & ETL | Snowflake | Full-Stack Developer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=192210479&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=192210479&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 🔭 **Currently Working On**
 - Strengthening my expertise in Java Development, Data Structures & Algorithms, Data Analytics, and ETL-based Data Processing.
@@ -50,14 +50,14 @@
 - Full-Stack Development
 
 ⚡ **Fun Fact**
-- I enjoy building software applications in Java and transforming raw data into meaningful insights through analytics, visualization, and ETL workflows.
+- I enjoy building software applications in Java and transforming raw data into meaningful insights through analytics and ETL workflows.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/krishna-koushik-atluri" target="blank">
+<a href="https://linkedin.com/in/krishna-koushik-atluri">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -68,7 +68,7 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -86,36 +86,28 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=192210479&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=192210479&theme=tokyonight&hide_border=true" height="170"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=192210479&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=192210479&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=192210479&theme=tokyonight&hide_border=true&layout=compact"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=192210479&theme=algolia&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=192210479&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🔝 Top Contributed Repo
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=192210479&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=192210479&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 - 🏥 TeleHealth+ Telemedicine Platform
 - 📊 Bike Rental Demand & Revenue Analytics
@@ -125,15 +117,15 @@
 
 ---
 
-# 🏅 Certifications
+## 🏅 Certifications
 
 - Oracle Certified Professional: Java SE 17 Developer
 - IBM SQL and Relational Databases 101
 - Deloitte Data Analytics Job Simulation
-- TCS iON Career Edge
+- TCS iON Career Edge Young Professional
 
 ---
 
-# 📈 Current Focus
+## 📈 Current Focus
 
 **Java Development • DSA • SQL • Snowflake • ETL • Data Analytics • System Design • Full-Stack Development**
