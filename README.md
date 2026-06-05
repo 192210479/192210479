@@ -2,32 +2,30 @@
 
 ### Oracle Certified Java SE 17 Developer | Java • DSA • SQL | Data Analytics & ETL | Snowflake | Full-Stack Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=192210479&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+![](https://komarev.com/ghpvc/?username=192210479&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-🔭 **Currently Working On**
+🔭 I'm currently working on
 - Strengthening my expertise in Java Development, Data Structures & Algorithms, Data Analytics, and ETL-based Data Processing.
 
-👯 **Looking to Collaborate On**
+👯 I'm looking to collaborate on
 - Java Applications
 - Full-Stack Development
 - Data Analytics Projects
 - ETL Pipelines
 - Open Source Contributions
 
-🤝 **Looking for Help With**
+🤝 I'm looking for help with
 - System Design
 - Advanced Java Development
 - Cloud Data Platforms
 - Data Engineering
 - Scalable Software Architectures
 
-🌱 **Currently Learning**
+🌱 I'm currently learning
 - Advanced Java
 - DSA
 - System Design
@@ -36,7 +34,7 @@
 - Data Warehousing
 - Backend Development
 
-💬 **Ask Me About**
+💬 Ask me about
 - Java
 - OOP
 - Collections Framework
@@ -49,78 +47,63 @@
 - REST APIs
 - Full-Stack Development
 
-⚡ **Fun Fact**
-- I enjoy building software applications in Java and transforming raw data into meaningful insights through analytics and ETL workflows.
+⚡ Fun fact
+- I enjoy building software applications in Java and transforming raw data into meaningful insights through analytics, visualization, and ETL workflows.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Socials
 
-<p align="left">
-<a href="https://linkedin.com/in/krishna-koushik-atluri">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-koushik-atluri)
 
-<a href="mailto:krishnakoush63@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnakoush63@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=192210479&show_icons=true&theme=tokyonight&hide_rank=true" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=192210479&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=192210479&theme=tokyonight&hide_border=true" />
-</p>
+![](https://streak-stats.demolab.com/?user=192210479&theme=dark&hide_border=false)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=192210479&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=192210479&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=192210479&theme=onedark&row=1&column=6" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=192210479&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 - 🏥 TeleHealth+ Telemedicine Platform
 - 📊 Bike Rental Demand & Revenue Analytics
 - 🤖 DDoS Attack Detection Using Random Forest
 - ☁️ Snowflake ETL & Data Analytics Workflows
-- 💻 Java DSA Preparation
+- 💻 Java DSA Preparation Repository
 
 ---
 
-## 🏅 Certifications
+# 🏅 Certifications
 
 - Oracle Certified Professional: Java SE 17 Developer
 - IBM SQL and Relational Databases 101
@@ -129,6 +112,6 @@
 
 ---
 
-## 📈 Current Focus
+# 📈 Current Focus
 
 **Java Development • DSA • SQL • Snowflake • ETL • Data Analytics • System Design • Full-Stack Development**
