@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Koushik Atluri</h1>
 
-<h3 align="center">
-Oracle Certified Java SE 17 Developer
-</h3>
+<h3 align="center">Oracle Certified Java SE 17 Developer</h3>
 
 <p align="center">
 Java • DSA • SQL • Data Analytics • ETL • Snowflake • Full-Stack Development
@@ -70,14 +68,14 @@ Java • DSA • SQL • Data Analytics • ETL • Snowflake • Full-Stack Dev
 
 <div align="center">
 
-### Programming Languages
+### Languages
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### Frameworks & Technologies
+### Frameworks & Platforms
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -102,15 +100,12 @@ Java • DSA • SQL • Data Analytics • ETL • Snowflake • Full-Stack Dev
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="75%" src="https://github-readme-stats.shion.dev/api?username=192210479&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=192210479&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=192210479&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com/?user=192210479&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=192210479&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=192210479&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
 
 ---
@@ -118,7 +113,7 @@ Java • DSA • SQL • Data Analytics • ETL • Snowflake • Full-Stack Dev
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=192210479&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=192210479&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -128,10 +123,10 @@ Java • DSA • SQL • Data Analytics • ETL • Snowflake • Full-Stack Dev
 | Project | Description |
 |----------|------------|
 | 🏥 TeleHealth+ | Full-Stack Telemedicine Platform with Mobile & Web Applications |
-| 📊 Bike Rental Analytics | Revenue Forecasting, EDA and Data Visualization |
+| 📊 Bike Rental Analytics | Revenue Forecasting, EDA & Data Visualization |
 | 🤖 DDoS Detection | Random Forest Based Network Attack Classification |
 | ☁️ Snowflake ETL Workflows | Data Extraction, Transformation & Loading Pipelines |
-| 💻 Java DSA Repository | Placement-Oriented Problem Solving and Algorithms |
+| 💻 Java DSA Repository | Placement-Oriented Problem Solving & Algorithms |
 
 ---
 
