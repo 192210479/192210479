@@ -68,40 +68,49 @@ Java • DSA • SQL • Data Analytics • ETL • Snowflake • Full-Stack Dev
 
 ## 💻 Tech Stack
 
-<p align="center">
+<div align="center">
+
+### Programming Languages
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<br><br>
+### Frameworks & Technologies
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 
-<br><br>
+### Databases & Analytics
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 
-</p>
+### Developer Tools
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=192210479&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=192210479&theme=tokyonight&hide_border=true"/>
+  <img width="75%" src="https://github-readme-stats.shion.dev/api?username=192210479&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=192210479&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img width="75%" src="https://streak-stats.demolab.com/?user=192210479&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=192210479&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
 
 ---
@@ -118,11 +127,11 @@ Java • DSA • SQL • Data Analytics • ETL • Snowflake • Full-Stack Dev
 
 | Project | Description |
 |----------|------------|
-| 🏥 TeleHealth+ | Full-Stack Telemedicine Platform |
-| 📊 Bike Rental Analytics | Revenue Forecasting & Data Visualization |
-| 🤖 DDoS Attack Detection | Random Forest Based Attack Classification |
-| ☁️ Snowflake ETL Workflows | Data Extraction, Transformation & Loading |
-| 💻 Java DSA Repository | Placement-Oriented Problem Solving |
+| 🏥 TeleHealth+ | Full-Stack Telemedicine Platform with Mobile & Web Applications |
+| 📊 Bike Rental Analytics | Revenue Forecasting, EDA and Data Visualization |
+| 🤖 DDoS Detection | Random Forest Based Network Attack Classification |
+| ☁️ Snowflake ETL Workflows | Data Extraction, Transformation & Loading Pipelines |
+| 💻 Java DSA Repository | Placement-Oriented Problem Solving and Algorithms |
 
 ---
 
@@ -148,6 +157,6 @@ Java • DSA • SQL • Data Analytics • ETL • Snowflake • Full-Stack Dev
 
 ---
 
-<p align="center">
-⭐ Always learning, building, and improving through real-world software and data-driven projects.
-</p>
+<h3 align="center">
+⭐ Always Learning • Building • Improving
+</h3>
