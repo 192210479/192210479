@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna Atluri</h1>
+<h1 align="center">Hi 👋, I'm Krishna Koushik Atluri</h1>
 
 <h3 align="center">Oracle Certified Java SE 17 Developer</h3>
 
